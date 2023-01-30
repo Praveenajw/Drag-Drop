@@ -9,4 +9,4 @@ This feature looks better compared to the traditional way of file uploading. It 
 Visit -> https://medium.com/featurepreneur/how-to-create-drag-drop-file-upload-311e4ffeb56f
 
 
-![image](https://user-images.githubusercontent.com/82393502/215390781-043c9db7-a5b8-40b3-be3f-2e4ece2b7097.png)
+https://miro.medium.com/max/552/1*_BhC3NVz3mwETVP4oi0eIQ.gif
